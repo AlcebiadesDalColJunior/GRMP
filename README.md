@@ -6,3 +6,5 @@ Python implementation related to the paper Graph Regularization Multidimensional
 
 Originally compiled in Spyder using Anaconda3-2020.11 software
 (https://repo.anaconda.com/archive/).
+
+Code Ocean capsule (https://codeocean.com/capsule/2902413/tree).
